@@ -1,5 +1,5 @@
 ## Hello, World!
-## Hi! I'm Sade/Amy
+Hi! I'm Sade/Amy
 
 <!--
 **SadeDevelopment/SadeDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
