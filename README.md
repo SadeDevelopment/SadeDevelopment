@@ -1,5 +1,6 @@
 # Hello, World!
-Hi! I'm Sade/Amy
+Hi! I'm Sade/Amy, I'm a C# HTML and CSS Developer and have been for the better part of 6+ years.
+I'm also a Cybersecurity Analyst, and created both BLUE_SKIES and Omotamia Development.
 
 <!--
 **SadeDevelopment/SadeDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
