@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadedevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="sadedevelopment" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadedevelopment" alt="sadedevelopment" /></a> </p>
+<p align="left"> <a href="https://twitter.com/omotamiadev" target="blank"><img src="https://img.shields.io/twitter/follow/omotamiadev?logo=twitter&style=for-the-badge" alt="omotamiadev" /></a> </p>
+
 # Hello, World!
 Hi! I'm Sade/Amy, I'm a C# HTML and CSS Developer and have been for the better part of 6+ years.
 <br>
