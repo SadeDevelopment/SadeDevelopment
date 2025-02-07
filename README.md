@@ -12,3 +12,4 @@ BLUE_SKIES, ReAmplify, Niko Desktop Pet, Obscurity, and a ton of others.
 Other things of note:
 <br>
 I also created Omotamia Development, a small Indie Game Studio with 3 other members.
+And, I have experience with Video Editing and general IT/Support Help with customers.
