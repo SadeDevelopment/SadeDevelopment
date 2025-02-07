@@ -10,5 +10,5 @@ All of my previous works include:
 BLUE_SKIES, ReAmplify, Niko Desktop Pet, Obscurity, and a ton of others.
 <br><br>
 Other things of note:
-<br><br>
+<br>
 I also created Omotamia Development, a small Indie Game Studio with 3 other members.
