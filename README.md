@@ -4,7 +4,7 @@
 Hi! I'm Sade/Amy, I'm a C# HTML and CSS Developer and have been for the better part of 6+ years.
 <br>
 I'm also a Cybersecurity Analyst, and created both BLUE_SKIES and Omotamia Development.
-<br>
+<br><br>
 All of my previous works include:
 <br>
 BLUE_SKIES, ReAmplify, Niko Desktop Pet, Obscurity, and a ton of others.
