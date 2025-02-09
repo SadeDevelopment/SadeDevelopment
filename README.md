@@ -2,7 +2,7 @@
 ### Some of my other skills are:
 Unity, Unreal Engine, Modding, Hardware Work, Java, Swift and Linux.
 <br><br>
-### All of my previous works include:
+### All of my previous/current works include:
 BLUE_SKIES, ReAmplify, Niko Desktop Pet, Obscurity, and a ton of others.
 <br><br>
 ### Other things of note:
