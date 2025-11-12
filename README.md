@@ -3,7 +3,7 @@
 Unity, Unreal Engine, Modding, Hardware Work, Java, Swift and Linux.
 <br><br>
 ### All of my previous/current works include:
-BLUE_SKIES, ReAmplify, Niko Desktop Pet, Obscurity, and a ton of others.
+BLUE_SKIES, Niko Desktop Pet, Bendy Studio Collection Launcher, and The You I Am among others.
 <br><br>
 ### Other things of note:
 I also created Omotamia Development, a small Indie Game Studio with 3 other members.
